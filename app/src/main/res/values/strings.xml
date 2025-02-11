@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">saglamIsApp</string>
+    <string name="dashboard_Toolbar_Title">Takım Listesi</string>
+    <string name="logo">companyLogo</string>
 </resources>
